@@ -1,0 +1,16 @@
+body{
+    background-image: url(backgroun.jpg);
+    
+    background-size:cover;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:white;
+    text-align: center;
+}
+h2 {
+    text-align:center;
+}
+h3 {
+    text-align: center;
+}
