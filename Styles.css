@@ -4,6 +4,19 @@ body{
     background-size:cover;
     font-family:Arial, Helvetica, sans-serif;
 }
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background: darkgrey;
+    border-radius: 10px;
+ 
+}
+.assignment img {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid salmon;
+}
 h1 {
     color:white;
     text-align: center;
@@ -13,4 +26,11 @@ h2 {
 }
 h3 {
     text-align: center;
+}
+a {
+    text-decoration: none;
+    color: cyan;
+}
+a:hover {
+    color: salmon
 }
